@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+const nome= "Thiago";
+const sobrenome= "Destazio Avelino";
+
 function App() {
   return (
     <div className="App">
@@ -21,5 +24,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
